@@ -1,0 +1,2 @@
+# HealthPlus
+The project title “HEALTH+” aims at developing a system which will automate the functioning of a hospital at a click. This is an android application which has various functionalities. With the help of this app a user can fix appointments with a particular doctor according to their need as per their ratings. Since android is an open source program, which is adaptable to any kind of environment.
